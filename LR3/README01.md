@@ -47,6 +47,7 @@ def generate_order_dataset(num_samples, seq_len=SEQ_LEN, min_len=MIN_LEN):
             y[i] = 0  # 3 раньше 7
         
         X[i, :length] = seq_list[:length]
+```
 
 
 ## 2. Разделение данных
@@ -81,6 +82,7 @@ class TransformerEncoderBlock(layers.Layer):
         ffn_output = self.ffn(out1)
         out2 = self.layernorm2(out1 + self.dropout2(ffn_output, training=training))
         return out2 if not return_attention_scores else (out2, attn_scores)
+```
 
 ## 4. Компиляция
 - Оптимизатор: `adam`

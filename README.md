@@ -21,6 +21,6 @@
 
 [ЛР3](https://github.com/MelnikNO/MathBasicforII/tree/main/LR3#readme)
 
-[ЛР4]()
+[ЛР4](https://github.com/MelnikNO/MathBasicforII/blob/main/LR4/README.md)
 
 [ЛР5](https://github.com/MelnikNO/MathBasicforII/tree/main/LR5#readme)

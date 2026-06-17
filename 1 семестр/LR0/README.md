@@ -451,8 +451,54 @@ def rotation_matrix_2d(angle_deg):
    - Анализ влияния шума на косинусное сходство
    - Исследование различных метрик расстояний и их применения в Data Science
 
+
 **Ключевые выводы:**
 - Векторы и матрицы являются фундаментом представления данных в ИИ
 - NumPy предоставляет эффективные инструменты для выполнения линейно-алгебраических операций
 - Математические операции имеют прямое применение в алгоритмах машинного обучения
 - Выбор метрики расстояния существенно влияет на результаты анализа данных
+
+
+
+
+# Скриншоты 
+
+<img width="746" height="187" alt="image" src="https://github.com/user-attachments/assets/2ba6336d-7cc4-455e-a2c0-50b1c7e78d7e" />
+
+<img width="386" height="201" alt="image" src="https://github.com/user-attachments/assets/39e1f3cf-670e-4533-8c87-74514a4b126e" />
+
+<img width="946" height="858" alt="image" src="https://github.com/user-attachments/assets/5f9a159d-b198-482f-8fb4-028df22009aa" />
+
+<img width="896" height="863" alt="image" src="https://github.com/user-attachments/assets/859b77e7-cb77-44f9-a629-2bd8f2b6e3a7" />
+
+<img width="933" height="771" alt="image" src="https://github.com/user-attachments/assets/66922f53-1162-4a8d-a56e-d60109bd0f26" />
+
+
+<img width="871" height="696" alt="image" src="https://github.com/user-attachments/assets/b6dbfd9d-677f-43d6-a81c-f721c196cda4" />
+
+<img width="465" height="494" alt="image" src="https://github.com/user-attachments/assets/b75babe7-b22a-4369-94a5-fe0736bf0fdf" />
+
+
+<img width="225" height="266" alt="image" src="https://github.com/user-attachments/assets/2b6bc73c-d258-406e-a51c-1b12fa46c71c" />
+
+<img width="418" height="331" alt="image" src="https://github.com/user-attachments/assets/3a68f4d7-2568-4cd7-854c-a334c340cd83" />
+
+<img width="996" height="745" alt="image" src="https://github.com/user-attachments/assets/35dfc979-1353-4f04-857e-c1872bf27bed" />
+
+<img width="637" height="642" alt="image" src="https://github.com/user-attachments/assets/36ee80fb-6186-49a2-a3b6-5f1c5e4911b6" />
+
+<img width="420" height="323" alt="image" src="https://github.com/user-attachments/assets/0eed8e22-ea17-47c7-b2f9-61c0fe88ee99" />
+
+<img width="841" height="781" alt="image" src="https://github.com/user-attachments/assets/fd240bcb-9dd1-4d8a-b3a8-2513dfd73649" />
+
+<img width="644" height="381" alt="image" src="https://github.com/user-attachments/assets/080a2244-25bf-46a6-a0ad-8fdc2660eb93" />
+
+<img width="847" height="684" alt="image" src="https://github.com/user-attachments/assets/d0d8ba61-95ae-444f-84f5-69e0e59933b9" />
+
+<img width="757" height="364" alt="image" src="https://github.com/user-attachments/assets/c19dc3ee-e27f-453c-a5aa-6938907c3861" />
+
+<img width="1163" height="824" alt="image" src="https://github.com/user-attachments/assets/730bd3d8-d413-470d-82a8-a731b967f2b5" />
+
+<img width="733" height="560" alt="image" src="https://github.com/user-attachments/assets/9a976d32-3559-4058-af15-90fb25a59154" />
+
+

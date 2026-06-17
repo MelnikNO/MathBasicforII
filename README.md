@@ -15,12 +15,12 @@
 
 2 семестр
 
-[ЛР1]()
+[ЛР1](https://github.com/MelnikNO/MathBasicforII/tree/main/LR1#readme)
 
-[ЛР2]()
+[ЛР2](https://github.com/MelnikNO/MathBasicforII/tree/main/LR2#readme)
 
-[ЛР3]()
+[ЛР3](https://github.com/MelnikNO/MathBasicforII/tree/main/LR3#readme)
 
 [ЛР4]()
 
-[ЛР5]()
+[ЛР5](https://github.com/MelnikNO/MathBasicforII/tree/main/LR5#readme)

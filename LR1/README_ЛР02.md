@@ -27,7 +27,7 @@ def make_dataset(n_samples: int = 6500, seq_len: int = 16):
     cumsum = np.cumsum(x[:, :, 0], axis=1)
     y = (cumsum > 0).astype(np.float32)[..., None]
     return x, y, cumsum
-
+```
 
 ## 2. Разделение данных
 Данные разделены на обучающую и тестовую выборки в соотношении 80/20.
@@ -50,7 +50,7 @@ model = tf.keras.Sequential([
 ])
 
 Ключевой параметр: `return_sequences=True` — без него модель вернула бы только один вектор на последовательность.
-
+```
 
 ## 4. Компиляция
 - Оптимизатор: `adam`
